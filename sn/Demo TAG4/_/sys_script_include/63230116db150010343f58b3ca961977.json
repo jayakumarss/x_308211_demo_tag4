@@ -1,0 +1,24 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_308211_demo_tag4.TAGTest4",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "TAGTest4",
+  "script": {
+    "____see": "sn\\Demo TAG4\\Script Include\\active_true\\x_308211_demo_tag4.TAGTest4.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-25 18:56:57",
+  "sys_id": "63230116db150010343f58b3ca961977",
+  "sys_mod_count": 1,
+  "sys_name": "TAGTest4",
+  "sys_package": "1a228152db150010343f58b3ca96190b",
+  "sys_policy": "read",
+  "sys_scope": "1a228152db150010343f58b3ca96190b",
+  "sys_update_name": "sys_script_include_63230116db150010343f58b3ca961977",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-25 18:56:59"
+}
