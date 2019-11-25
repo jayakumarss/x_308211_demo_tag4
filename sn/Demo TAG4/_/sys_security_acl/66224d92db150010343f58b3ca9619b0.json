@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on x_308211_demo_tag4_table",
+  "name": "x_308211_demo_tag4_table",
+  "operation": "create",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-25 18:52:21",
+  "sys_id": "66224d92db150010343f58b3ca9619b0",
+  "sys_mod_count": 0,
+  "sys_name": "x_308211_demo_tag4_table",
+  "sys_package": "1a228152db150010343f58b3ca96190b",
+  "sys_policy": null,
+  "sys_scope": "1a228152db150010343f58b3ca96190b",
+  "sys_update_name": "sys_security_acl_66224d92db150010343f58b3ca9619b0",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-25 18:52:21",
+  "type": "record"
+}
