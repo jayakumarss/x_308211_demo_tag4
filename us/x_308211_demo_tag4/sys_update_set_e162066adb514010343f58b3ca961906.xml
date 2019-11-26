@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-11-26 19:13:12">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</application>
+<application_name>Demo TAG4</application_name>
+<application_scope>x_308211_demo_tag4</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>Demo TAG4 - 1.0.8</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>e162066adb514010343f58b3ca961906</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-11-26 19:13:12</sys_created_on>
+<sys_id>3d801aa2db914010343f58b3ca96198f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-11-26 19:13:12</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+</unload>
