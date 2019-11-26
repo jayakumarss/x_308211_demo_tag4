@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": "Test",
+  "field": null,
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "DemoTAG4Client",
+  "order": null,
+  "script": {
+    "____see": "sn\\Demo TAG4\\Client Script\\{--none--}\\active_true\\DemoTAG4Client.js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-26 13:00:20",
+  "sys_id": "321b7066db9d0010343f58b3ca961997",
+  "sys_mod_count": 0,
+  "sys_name": "DemoTAG4Client",
+  "sys_package": "1a228152db150010343f58b3ca96190b",
+  "sys_policy": null,
+  "sys_scope": "1a228152db150010343f58b3ca96190b",
+  "sys_update_name": "sys_script_client_321b7066db9d0010343f58b3ca961997",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-26 13:00:20",
+  "table": null,
+  "type": null,
+  "ui_type": 0,
+  "view": null
+}
