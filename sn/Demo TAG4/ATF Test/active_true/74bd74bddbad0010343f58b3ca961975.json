@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "copied_from": null,
+  "description": "Test case",
+  "enable_parameterized_testing": false,
+  "name": "Demo TAG 4 Test1",
+  "parameters": null,
+  "remember": null,
+  "sys_class_name": "sys_atf_test",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-12-06 15:31:58",
+  "sys_id": "74bd74bddbad0010343f58b3ca961975",
+  "sys_mod_count": 0,
+  "sys_name": "Demo TAG 4 Test1",
+  "sys_package": "1a228152db150010343f58b3ca96190b",
+  "sys_policy": null,
+  "sys_scope": "1a228152db150010343f58b3ca96190b",
+  "sys_update_name": "sys_atf_test_74bd74bddbad0010343f58b3ca961975",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-12-06 15:31:58"
+}

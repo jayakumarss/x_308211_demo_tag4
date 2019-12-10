@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": "Client script code quality",
+  "field": null,
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "DemoTAG14",
+  "order": null,
+  "script": {
+    "____see": "sn\\Demo TAG4\\Client Script\\{--none--}\\active_true\\DemoTAG14.js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-12-06 15:27:43",
+  "sys_id": "137c747ddbad0010343f58b3ca961920",
+  "sys_mod_count": 0,
+  "sys_name": "DemoTAG14",
+  "sys_package": "1a228152db150010343f58b3ca96190b",
+  "sys_policy": null,
+  "sys_scope": "1a228152db150010343f58b3ca96190b",
+  "sys_update_name": "sys_script_client_137c747ddbad0010343f58b3ca961920",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-12-06 15:27:43",
+  "table": null,
+  "type": null,
+  "ui_type": 0,
+  "view": null
+}
