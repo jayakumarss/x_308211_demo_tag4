@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-12-11 13:17:34">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</application>
+<application_name>Demo TAG4</application_name>
+<application_scope>x_308211_demo_tag4</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Demo TAG4 - 1.0.17</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>bd9d4257db210010343f58b3ca96193c</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-11 13:17:33</sys_created_on>
+<sys_id>5afe4a57db210010343f58b3ca961952</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-11 13:17:33</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_137c747ddbad0010343f58b3ca961920</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description&gt;Client script code quality&lt;/description&gt;&lt;field&gt;work_end&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;DemoTAG14&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[//test();
+function onCellEdit(){
+	var test2;
+	alert('test');
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-06 15:27:43&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;137c747ddbad0010343f58b3ca961920&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;DemoTAG14&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Demo TAG4" source="x_308211_demo_tag4"&gt;1a228152db150010343f58b3ca96190b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Demo TAG4"&gt;1a228152db150010343f58b3ca96190b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_137c747ddbad0010343f58b3ca961920&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-11 13:16:30&lt;/sys_updated_on&gt;&lt;table&gt;x_308211_demo_tag4_table&lt;/table&gt;&lt;type&gt;onCellEdit&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-532393650</payload_hash>
+<remote_update_set display_value="Demo TAG4 - 1.0.17">5afe4a57db210010343f58b3ca961952</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-11 13:17:33</sys_created_on>
+<sys_id>12fe4a57db210010343f58b3ca961953</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16ef51a96e80000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-11 13:17:33</sys_updated_on>
+<table>x_308211_demo_tag4_table</table>
+<target_name>DemoTAG14</target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>0fbe82575321001036727106c2d6d7f4</update_guid>
+<update_guid_history>0fbe82575321001036727106c2d6d7f4:-532393650,0cdc747d2fad0010d2a1cdcbd213c827:237982809</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
