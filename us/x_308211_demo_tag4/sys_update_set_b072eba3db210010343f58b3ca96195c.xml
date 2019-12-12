@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-12-12 14:02:14">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</application>
+<application_name>Demo TAG4</application_name>
+<application_scope>x_308211_demo_tag4</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Demo TAG4 - 1.0.18</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>b072eba3db210010343f58b3ca96195c</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:02:13</sys_created_on>
+<sys_id>62c2efe3db210010343f58b3ca961948</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:02:13</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_9d9cb4a6db9d0010343f58b3ca961950</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_308211_demo_tag4.DemoScript43&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description&gt;Test&lt;/description&gt;&lt;name&gt;DemoScript43&lt;/name&gt;&lt;script&gt;&lt;![CDATA[/**
+ * Class Description
+ * 
+ * @class 
+ * @author System Administrator [admin]
+ * @memberof x_308211_demo_tag4.module:sys_script_include
+ */
+var DemoScript43 = Class.create();
+DemoScript43.prototype = /** @lends x_308211_demo_tag4.module:sys_script_include.DemoScript43.prototype */ {
+    /**
+     * Description
+     * 
+     * @returns {undefined}
+     */
+    initialize: function() {
+    },
+/**
+ * Description
+ * 
+ * @returns {undefined}
+ */
+dummy:function(){
+	gs.info('test');
+},
+    type: 'DemoScript43'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-11-26 13:06:45&lt;/sys_created_on&gt;&lt;sys_id&gt;9d9cb4a6db9d0010343f58b3ca961950&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;DemoScript43&lt;/sys_name&gt;&lt;sys_package display_value="Demo TAG4" source="x_308211_demo_tag4"&gt;1a228152db150010343f58b3ca96190b&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="Demo TAG4"&gt;1a228152db150010343f58b3ca96190b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_9d9cb4a6db9d0010343f58b3ca961950&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-12 14:01:38&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>842899879</payload_hash>
+<remote_update_set display_value="Demo TAG4 - 1.0.18">62c2efe3db210010343f58b3ca961948</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-12 14:02:13</sys_created_on>
+<sys_id>2ac2efe3db210010343f58b3ca961948</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16efa6a466e0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-12 14:02:13</sys_updated_on>
+<table/>
+<target_name>DemoScript43</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>4ea267e311210010004234260d6acd87</update_guid>
+<update_guid_history>4ea267e311210010004234260d6acd87:842899879,baac7066e19d001093dc680113d23bb2:1700475494,31ac3466749d0010f327c32d994611bf:-777459453</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
