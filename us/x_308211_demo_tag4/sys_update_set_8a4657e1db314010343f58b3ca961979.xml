@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-12-18 18:15:35">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</application>
+<application_name>Demo TAG4</application_name>
+<application_scope>x_308211_demo_tag4</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>Demo TAG4 - 1.0.29</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="Demo TAG4 - 1.0.29">8c561329db314010343f58b3ca9619a3</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>8a4657e1db314010343f58b3ca961979</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-18 18:15:35</sys_created_on>
+<sys_id>8c561329db314010343f58b3ca9619a3</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-18 18:15:35</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</application>
+<application_name>Demo TAG4</application_name>
+<application_scope>x_308211_demo_tag4</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>Demo TAG4 - 1.0.29</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="Demo TAG4 - 1.0.29">8c561329db314010343f58b3ca9619a3</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>8a4657e1db314010343f58b3ca961979</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-18 18:15:35</sys_created_on>
+<sys_id>8c561329db314010343f58b3ca9619a3</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-18 18:15:35</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</application>
+<application_name>Demo TAG4</application_name>
+<application_scope>x_308211_demo_tag4</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Demo TAG4 - 1.0.19</name>
+<origin_sys_id/>
+<parent display_value="Demo TAG4 - 1.0.29">8c561329db314010343f58b3ca9619a3</parent>
+<release_date/>
+<remote_base_update_set display_value="Demo TAG4 - 1.0.29">8c561329db314010343f58b3ca9619a3</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>f5e4d2a5db7d0010343f58b3ca961939</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-18 18:15:35</sys_created_on>
+<sys_id>c4561329db314010343f58b3ca9619a5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-18 18:15:35</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</application>
+<application_name>Demo TAG4</application_name>
+<application_scope>x_308211_demo_tag4</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Demo TAG4 - 1.0.14</name>
+<origin_sys_id/>
+<parent display_value="Demo TAG4 - 1.0.29">8c561329db314010343f58b3ca9619a3</parent>
+<release_date/>
+<remote_base_update_set display_value="Demo TAG4 - 1.0.29">8c561329db314010343f58b3ca9619a3</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>b26cf07ddbad0010343f58b3ca9619d2</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-18 18:15:35</sys_created_on>
+<sys_id>c8561329db314010343f58b3ca9619a4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-18 18:15:35</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_308211_demo_tag4_table_name_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="name" label="Name" language="en" table="x_308211_demo_tag4_table"><sys_documentation action="INSERT_OR_UPDATE"><element>name</element><help/><hint/><label>Name</label><language>en</language><name>x_308211_demo_tag4_table</name><plural>Names</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-18 13:30:49</sys_created_on><sys_id>742596a5db7d0010343f58b3ca961945</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Name</sys_name><sys_package display_value="Demo TAG4" source="x_308211_demo_tag4">1a228152db150010343f58b3ca96190b</sys_package><sys_policy/><sys_scope display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</sys_scope><sys_update_name>sys_documentation_x_308211_demo_tag4_table_name_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-18 13:30:49</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1382717452</payload_hash>
+<remote_update_set display_value="Demo TAG4 - 1.0.19">c4561329db314010343f58b3ca9619a5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-18 18:15:35</sys_created_on>
+<sys_id>00561329db314010343f58b3ca9619a6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f193438990000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-18 18:15:35</sys_updated_on>
+<table>x_308211_demo_tag4_table</table>
+<target_name>Demo TAG4 Table.Name</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>0d259aa50f7d001035578adba2332661</update_guid>
+<update_guid_history>0d259aa50f7d001035578adba2332661:-1382717452</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_308211_demo_tag4_table_name</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="name" table="x_308211_demo_tag4_table"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Name&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;name&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;10&lt;/max_length&gt;&lt;name&gt;x_308211_demo_tag4_table&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-18 13:30:49&lt;/sys_created_on&gt;&lt;sys_id&gt;250556a5db7d0010343f58b3ca961936&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Name&lt;/sys_name&gt;&lt;sys_package display_value="Demo TAG4" source="x_308211_demo_tag4"&gt;1a228152db150010343f58b3ca96190b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Demo TAG4"&gt;1a228152db150010343f58b3ca96190b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_308211_demo_tag4_table_name&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-18 13:30:49&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1223279251</payload_hash>
+<remote_update_set display_value="Demo TAG4 - 1.0.19">c4561329db314010343f58b3ca9619a5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-18 18:15:35</sys_created_on>
+<sys_id>4c561329db314010343f58b3ca9619a5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f193438810000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-18 18:15:35</sys_updated_on>
+<table>x_308211_demo_tag4_table</table>
+<target_name>Demo TAG4 Table.Name</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>49259aa5907d0010a00ca3565fb85360</update_guid>
+<update_guid_history>49259aa5907d0010a00ca3565fb85360:-1223279251,b42596a57e7d0010b1e5e5cb9273bf43:-1223279251</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_5a228152db150010343f58b3ca96190b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Demo TAG4 Table</label><live_feed_enabled>false</live_feed_enabled><name>x_308211_demo_tag4_table</name><number_ref/><provider_class/><read_access>true</read_access><super_class display_value="Task" name="task">29c855b47420330078509adcc48c8788</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-25 18:52:21</sys_created_on><sys_id>5a228152db150010343f58b3ca96190b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Demo TAG4 Table</sys_name><sys_package display_value="Demo TAG4" source="x_308211_demo_tag4">1a228152db150010343f58b3ca96190b</sys_package><sys_policy/><sys_scope display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</sys_scope><sys_update_name>sys_db_object_5a228152db150010343f58b3ca96190b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-18 13:30:50</sys_updated_on><update_access>false</update_access><user_role display_value="x_308211_demo_tag4.user" name="x_308211_demo_tag4.user">62220d92db150010343f58b3ca961910</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>-767192594</payload_hash>
+<remote_update_set display_value="Demo TAG4 - 1.0.19">c4561329db314010343f58b3ca9619a5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-18 18:15:35</sys_created_on>
+<sys_id>88561329db314010343f58b3ca9619a5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f193439640000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-18 18:15:35</sys_updated_on>
+<table>x_308211_demo_tag4_table</table>
+<target_name>Demo TAG4 Table</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>c9259aa5b37d00103a4f1b7734087274</update_guid>
+<update_guid_history>c9259aa5b37d00103a4f1b7734087274:-767192594,a66205d2da1500107fc77af820911372:2108790254,72228d92a8150010a825395aa51a7033:-767192594</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_module_f6228d92db150010343f58b3ca961978</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="DELETE"><active>true</active><application display_value="Demo TAG4">76228d92db150010343f58b3ca961976</application><filter/><name>Demo TAG4 Table</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_308211_demo_tag4.user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-25 18:52:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f6228d92db150010343f58b3ca961978</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo TAG4 Table</sys_name><sys_package display_value="Demo TAG4" source="x_308211_demo_tag4">1a228152db150010343f58b3ca96190b</sys_package><sys_policy/><sys_scope display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</sys_scope><sys_update_name>sys_ui_module_f6228d92db150010343f58b3ca961978</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-25 18:52:22</sys_updated_on><table>x_308211_demo_tag4_table</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+<payload_hash>219747082</payload_hash>
+<remote_update_set display_value="Demo TAG4 - 1.0.19">c4561329db314010343f58b3ca9619a5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-18 18:15:35</sys_created_on>
+<sys_id>c0561329db314010343f58b3ca9619a6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16f1934969c0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-18 18:15:35</sys_updated_on>
+<table>x_308211_demo_tag4_table</table>
+<target_name>Demo TAG4 Table</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>fa3556a5467d001001ba98fb16e7c3eb</update_guid>
+<update_guid_history>fa3556a5467d001001ba98fb16e7c3eb:219747082,fe228d928d15001091b0651ae3e2ce79:1382228094</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo TAG4">1a228152db150010343f58b3ca96190b</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_137c747ddbad0010343f58b3ca961920</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description&gt;Client script code quality&lt;/description&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;DemoTAG14&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[test();
+function test1(){
+	var test1;
+	alert('test');
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-12-06 15:27:43&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;137c747ddbad0010343f58b3ca961920&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;DemoTAG14&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Demo TAG4" source="x_308211_demo_tag4"&gt;1a228152db150010343f58b3ca96190b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Demo TAG4"&gt;1a228152db150010343f58b3ca96190b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_137c747ddbad0010343f58b3ca961920&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-12-06 15:27:43&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;type/&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>237982809</payload_hash>
+<remote_update_set display_value="Demo TAG4 - 1.0.14">c8561329db314010343f58b3ca9619a4</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-12-18 18:15:35</sys_created_on>
+<sys_id>8c561329db314010343f58b3ca9619a4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16edbd2e9f40000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-12-18 18:15:35</sys_updated_on>
+<table/>
+<target_name>DemoTAG14</target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>0cdc747d2fad0010d2a1cdcbd213c827</update_guid>
+<update_guid_history>0cdc747d2fad0010d2a1cdcbd213c827:237982809</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
