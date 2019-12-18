@@ -1,0 +1,23 @@
+{
+  "element": "name",
+  "help": null,
+  "hint": null,
+  "label": "Name",
+  "language": "en",
+  "name": "x_308211_demo_tag4_table",
+  "plural": "Names",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-12-18 13:30:49",
+  "sys_id": "742596a5db7d0010343f58b3ca961945",
+  "sys_mod_count": 0,
+  "sys_name": "Name",
+  "sys_package": "1a228152db150010343f58b3ca96190b",
+  "sys_policy": null,
+  "sys_scope": "1a228152db150010343f58b3ca96190b",
+  "sys_update_name": "sys_documentation_x_308211_demo_tag4_table_name_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-12-18 13:30:49",
+  "url": null,
+  "url_target": null
+}
