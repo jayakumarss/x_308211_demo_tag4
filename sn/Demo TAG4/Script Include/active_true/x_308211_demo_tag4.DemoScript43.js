@@ -3,7 +3,7 @@
  * ClassName   : sys_script_include
  * Created On  : 2019-11-26 13:06:45
  * Created By  : admin
- * Updated On  : 2019-12-20 15:28:28
+ * Updated On  : 2019-11-26 13:06:50
  * Updated By  : admin
  * URL         : /sys_script_include.do?sys_id=9d9cb4a6db9d0010343f58b3ca961950
  */
@@ -23,13 +23,6 @@ DemoScript43.prototype = /** @lends x_308211_demo_tag4.module:sys_script_include
      */
     initialize: function() {
     },
-/**
- * Description
- * 
- * @returns {undefined}
- */
-dummy:function(){
-	gs.info('test');
-},
+
     type: 'DemoScript43'
 };

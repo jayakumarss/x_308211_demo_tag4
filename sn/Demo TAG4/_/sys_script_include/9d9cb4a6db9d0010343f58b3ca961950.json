@@ -4,7 +4,7 @@
   "api_name": "x_308211_demo_tag4.DemoScript43",
   "caller_access": null,
   "client_callable": false,
-  "description": "Test 123",
+  "description": "Test",
   "name": "DemoScript43",
   "script": {
     "____see": "sn\\Demo TAG4\\Script Include\\active_true\\x_308211_demo_tag4.DemoScript43.js"
@@ -13,12 +13,12 @@
   "sys_created_by": "admin",
   "sys_created_on": "2019-11-26 13:06:45",
   "sys_id": "9d9cb4a6db9d0010343f58b3ca961950",
-  "sys_mod_count": 3,
+  "sys_mod_count": 1,
   "sys_name": "DemoScript43",
   "sys_package": "1a228152db150010343f58b3ca96190b",
   "sys_policy": "read",
   "sys_scope": "1a228152db150010343f58b3ca96190b",
   "sys_update_name": "sys_script_include_9d9cb4a6db9d0010343f58b3ca961950",
   "sys_updated_by": "admin",
-  "sys_updated_on": "2019-12-20 15:28:28"
+  "sys_updated_on": "2019-11-26 13:06:50"
 }
